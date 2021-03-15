@@ -1,0 +1,7 @@
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe.config
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\bin\Debug\PropertyApp.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\bin\Debug\PropertyApp.pdb
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csprojAssemblyReference.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\obj\Debug\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\obj\Debug\PropertyApp.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\PropertyApp\PropertyApp\obj\Debug\PropertyApp.pdb
