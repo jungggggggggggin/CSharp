@@ -18,6 +18,7 @@ namespace Array
                 for (j = 0; j < arrayOfArray[i].Length; j++)
                     Console.Write(" " + arrayOfArray[i][j]);
                 Console.WriteLine();
+
             }
         }
     }
