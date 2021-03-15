@@ -1,0 +1,7 @@
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\bin\Debug\IsAs.exe.config
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\bin\Debug\IsAs.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\bin\Debug\IsAs.pdb
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\obj\Debug\IsAs.csprojAssemblyReference.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\obj\Debug\IsAs.csproj.CoreCompileInputs.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\obj\Debug\IsAs.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\IsAs\IsAs\obj\Debug\IsAs.pdb
