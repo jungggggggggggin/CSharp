@@ -1,0 +1,7 @@
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\obj\Debug\Basic.csprojAssemblyReference.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Basic\Basic\obj\Debug\Basic.pdb
