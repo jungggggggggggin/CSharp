@@ -1,0 +1,7 @@
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\wjddl\source\repos\jungggggggggggin\CSharp\Stack\Stack\obj\Debug\Stack.pdb
